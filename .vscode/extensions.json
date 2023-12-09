@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "serayuzgur.crates",
+        "tamasfe.even-better-toml",
+        "eamodio.gitlens",
+        "swellaby.rust-pack",
+        "dustypomerleau.rust-syntax",
+        "polymeilex.rust-targets",
+        "rust-lang.rust-analyzer",
+        "surrealdb.surrealql"
+    ]
+}
