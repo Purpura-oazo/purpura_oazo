@@ -1,0 +1,5 @@
+services:
+  purpura-oazo:
+    build: .
+    env_file:
+      - .env
