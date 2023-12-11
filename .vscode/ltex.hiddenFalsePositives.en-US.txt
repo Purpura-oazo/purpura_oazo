@@ -1,0 +1,1 @@
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qx Create a cache around server data, for security purposes inside SurrealDB.\\E$"}

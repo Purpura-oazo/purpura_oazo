@@ -13,7 +13,7 @@ I am currently learning how to use GitHub correctly, so until I know how to do i
 - [x] Create a cache around server data, for security purposes inside SurrealDB.
 - [ ] Create a modular API around events.
   - [ ] Create the Lua API to embed custom logic.
-    > This is intended for community plugins. And isn't a priority.
+    > This is intended for community plugins. And isn't a priority. Because I'm stupid.
 - [ ] Process heavy load tasks separately using a task scheduler.
 - [ ] Create a user interface using Leptos-rs
 
